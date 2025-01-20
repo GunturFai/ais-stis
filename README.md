@@ -1,2 +1,2 @@
 # ais-stis
-file konvert
+file convert
